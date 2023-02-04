@@ -1,0 +1,17 @@
+{
+  "consensusAddress": "0x8db1436097E3d16DD366c138F6953Fb7ee9a96Ad",
+  "blockRewardAddress": "0x7429fB101C317743369f3A161A6Ee78c3Ac45ADd",
+  "web3": {
+    "fuseProvider": "https://mainnet-rpc.nordekscan.com"
+  },
+  "api": {
+    "boot": "https://bot.nordekscan.com/api/v1"
+  },
+  "reactGA": {
+    "trackingId": "G-LHHHX57LEJ",
+    "gaOptions": {
+      "testMode": true,
+      "debug": true
+    }
+  }
+}
